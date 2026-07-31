@@ -5,8 +5,8 @@
 %global crate crossbeam
 
 Name:           rust-%{crate}
-Version:        0.7.3
-Release:        2%{?dist}
+Version:        0.8.4
+Release:        1%{?dist}
 Summary:        Tools for concurrent programming
 
 # Upstream license specification: MIT/Apache-2.0
